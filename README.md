@@ -18,15 +18,15 @@ origin_node destiny_node designator valueUnit
 **Example (real lines):**
 
 
-1 0 V1 9V
-1 2 R1 1k
-2 3 R2 470
-3 0 R3 330
-3 0 D1 LED
-3 0 C1 100uF
-4 0 V2 12V@50Hz
-5 4 I1 10mA
-6 5 Q1 2N2222
+1 0 V1 9V  
+1 2 R1 1k  
+2 3 R2 470  
+3 0 R3 330  
+3 0 D1 LED  
+3 0 C1 100uF  
+4 0 V2 12V@50Hz  
+5 4 I1 10mA  
+6 5 Q1 2N2222  
 
 
 That’s the entire protocol.  
